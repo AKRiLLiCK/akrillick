@@ -11,7 +11,7 @@
   <a href="https://youtube.com/@AKRiLLiCK">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  &nbsp;
+  
   <a href="https://ko-fi.com/acrilic">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
