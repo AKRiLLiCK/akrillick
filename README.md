@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Acrilic&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Systems%20%E2%80%A2%20Physics%20%E2%80%A2%20Narrative&descAlignY=51&descAlign=62&fontColor=ffffff)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=300&section=header&text=Acrilic&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Creativity%20%E2%80%A2%20Growth%20%E2%80%A2%20Legacy&descAlignY=51&descAlign=50&fontColor=ffffff)
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Bridging+Low-Level+Systems+%26+Art;Faceless+Creator+%7C+Ideas+Over+Identity;Rust+%E2%80%A2+Linux+%E2%80%A2+Godot+%E2%80%A2+Engineering" alt="Typing SVG" />
