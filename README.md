@@ -11,10 +11,10 @@
 
   <div>
     <a href="https://youtube.com/@AKRiLLiCK">
-      <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube" />
+      <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" />
     </a>
     <a href="https://ko-fi.com/acrilic">
-      <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
+      <img src="https://img.shields.io/badge/Ko--fi-Support-F16061?style=flat&logo=ko-fi&logoColor=white" alt="Ko-Fi" />
     </a>
   </div>
 
@@ -33,19 +33,18 @@ I am a **multidisciplinary engineer** and **faceless creator** focused on ideas 
 
 ---
 
-### 💻 Tech Stack
+### 📦 Tech Stack
 
 <div align="center">
 
 | **Core & Systems** | **Web & Scripting** | **Dev Environment** | **Creative & Hardware** |
 | :---: | :---: | :---: | :---: |
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine) |
-| ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white) | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white) | ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7C3AED?style=flat-square&logo=endeavouros&logoColor=white) | ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) |
-| ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) | ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) | ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) |
-| | | ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white) | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) |
-| | | ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white) | |
-| | | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visualstudiocode&logoColor=white) | |
+| ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | ![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=flat&logo=godot-engine&logoColor=white) |
+| ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) | ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) | ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white) |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) | ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7C3AED?style=flat&logo=endeavouros&logoColor=white) | ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white) |
+| ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white) | ![Bash Script](https://img.shields.io/badge/Bash_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) | ![Gimp](https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white) |
+| | | ![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=flat&logo=neovim&logoColor=white) | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white) |
+| | | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) | |
 
 </div>
 
@@ -53,11 +52,15 @@ I am a **multidisciplinary engineer** and **faceless creator** focused on ideas 
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AKRiLLiCK&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKRiLLiCK&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=AKRiLLiCK&show_icons=true&theme=cobalt&hide_border=true&count_private=true" alt="Stats Graph" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKRiLLiCK&layout=compact&theme=cobalt&hide_border=true" alt="Languages Graph" />
+</a>
 
 <br>
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=AKRiLLiCK&icon=5&color=12)
+<img src="https://visitcount.itsvg.in/api?id=AKRiLLiCK&icon=5&color=12" alt="Visitor Count" />
 
 </div>
