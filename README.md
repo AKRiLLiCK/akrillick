@@ -44,7 +44,8 @@ I am a **multidisciplinary engineer** and **faceless creator** focused on ideas 
 | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) | ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | ![EndeavourOS](https://img.shields.io/badge/EndeavourOS-7C3AED?style=flat-square&logo=endeavouros&logoColor=white) | ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat-square&logo=inkscape&logoColor=080A13) |
 | ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) | ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) | ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) |
 | | | ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?style=flat-square&logo=neovim&logoColor=white) | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) |
-| | | ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white) | |
+| | | ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=flat-square&logo=vim&logoColor=white) | |
+| | | ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat-square&logo=visualstudiocode&logoColor=white) | |
 
 </div>
 
@@ -52,11 +53,11 @@ I am a **multidisciplinary engineer** and **faceless creator** focused on ideas 
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=AKRiLLiCK&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKRiLLiCK&layout=compact&theme=dark&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
-  
-  <br>
-  
-  ![Visitor Count](https://visitcount.itsvg.in/api?id=AKRiLLiCK&icon=5&color=12)
+![Stats](https://github-readme-stats.vercel.app/api?username=AKRiLLiCK&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AKRiLLiCK&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
+
+<br>
+
+![Visitor Count](https://visitcount.itsvg.in/api?id=AKRiLLiCK&icon=5&color=12)
 
 </div>
