@@ -17,43 +17,18 @@ I am a <strong>Computer Engineering Student @ UPM</strong> building the intersec
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=header&text=Arsenal&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="Arsenal" />
 <br>
-<table border="0" width="100%">
-<tr>
-<td width="50%" valign="top" align="center">
-<h3 align="center">⚙️ Languages & Scripting</h3>
-<img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" alt="Arduino" />
 <br>
-<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white" alt="Lua" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
-<br><br>
-<h3 align="center">🌐 Web & UI</h3>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/🧬_Dioxus-3D3D3D?style=flat&logoColor=white" alt="Dioxus" />
-</td>
-<td width="50%" valign="top" align="center">
-<h3 align="center">🎨 Creative Suite</h3>
-<img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" alt="Godot" />
-<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat&logo=blender&logoColor=white" alt="Blender" />
-<img src="https://img.shields.io/badge/Inkscape-000000?style=flat&logo=inkscape&logoColor=white" alt="Inkscape" />
-<img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white" alt="GIMP" />
-<br><br>
-<h3 align="center">🐧 Operating Systems</h3>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white" alt="Debian" />
-<img src="https://img.shields.io/badge/EndeavourOS-7C3AED?style=flat&logo=endeavouros&logoColor=white" alt="EndeavourOS" />
-<br><br>
-<h3 align="center">🛠️ Tools & Editors</h3>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/NeoVim-57A143?style=flat&logo=neovim&logoColor=white" alt="NeoVim" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
-</td>
-</tr>
-</table>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=rust,c,java,arduino,lua,py,bash&theme=dark" alt="Languages" />
+</a>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=godot,blender,gimp,inkscape,html,css&theme=dark" alt="Creative Suite" />
+</a>
+<br>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=linux,debian,arch,vscode,neovim,git&theme=dark" alt="Tools" />
+</a>
 </div>
 <br>
 <br>
