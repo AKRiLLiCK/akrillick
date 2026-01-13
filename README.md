@@ -19,15 +19,7 @@ I am a <strong>Computer Engineering Student @ UPM</strong> building the intersec
 <br>
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust,c,java,lua,py,bash&theme=dark" alt="Languages" />
-</a>
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=godot,blender,html,css&theme=dark" alt="Creative Suite" />
-</a>
-<br>
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,debian,arch,arduino,vscode,neovim,git&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=rust,c,java,lua,py,bash,godot,blender,html,css,vscode,neovim,linux,debian,arch,git,arduino,raspberrypi&perline=6&theme=dark" alt="Arsenal" />
 </a>
 </div>
 <br>
