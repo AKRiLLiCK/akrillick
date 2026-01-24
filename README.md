@@ -8,18 +8,18 @@
 </div>
 <br>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=header&text=Mission&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="Mission" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=header&text=About&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="About" />
 <p width="600px">
-I am a <strong>Computer Engineering Student @ UPM</strong> building the intersection between hardware reality and digital narrative. My work prioritizes privacy, performance, and applied physics.
+I am a <strong>Computer Engineering Student @ UPM</strong> exploring the full depth of the computing spectrum. From the physics of hardware to the logic of software, I focus on systems programming, ethical hacking, and engine architecture. I build to learn, prioritizing privacy, performance, and the craft of engineering.
 </p>
 </div>
 <br>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=header&text=Arsenal&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="Arsenal" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=header&text=Stack&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="Stack" />
 <br>
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust,c,java,lua,py,bash,godot,blender,html,css,docker,md,linux,debian,arch,git,neovim,arduino&perline=6&theme=dark" alt="Arsenal" />
+  <img src="https://skillicons.dev/icons?i=rust,c,bash,godot,html,css,docker,md,linux,debian,arch,git,neovim,arduino&perline=7&theme=dark" alt="Stack" />
 </a>
 </div>
 <br>
