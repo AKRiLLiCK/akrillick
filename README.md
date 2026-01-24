@@ -19,7 +19,7 @@ I am a <strong>Computer Engineering Student @ UPM</strong> exploring the full de
 <br>
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust,c,bash,godot,html,css,docker,md,linux,debian,arch,git,neovim,arduino&perline=7&theme=dark" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=rust,c,arduino,bash,html,css,md,godot,linux,arch,debian,docker,git,neovim&perline=7&theme=dark" alt="Stack" />
 </a>
 </div>
 <br>
