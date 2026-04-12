@@ -16,7 +16,7 @@ I am a <strong>Computer Engineering Student</strong> exploring the full depth of
 <br>
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust,c,java,python,arduino,bash,html,css,astro,godot,linux,docker,git&perline=8&theme=dark" alt="Stack" />
+  <img src="https://skillicons.dev/icons?i=rust,c,java,python,arduino,bash,html,css,astro,godot,linux,docker,git&perline=6&theme=dark" alt="Stack" />
 </a>
 </div>
 <br>
