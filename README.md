@@ -7,7 +7,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=header&text=About&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="About" />
 <p width="600px">
-I am a <strong>Computer Engineering Student</strong> exploring the full depth of the computing spectrum.
+I am a <strong>Computer Engineering Student</strong> exploring the full depth of the computing spectrum. I'm a <strong>polymath</strong>.
 </p>
 </div>
 <br>
