@@ -17,23 +17,35 @@ I am a <strong>Computer Engineering Student</strong> exploring the full depth of
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=header&text=Stack&fontSize=30&fontColor=ffffff&fontAlignY=50" alt="Stack" />
 <br><br>
 
-<b>Languages</b><br>
-<img src="https://skillicons.dev/icons?i=rust,c,java,python,bash,powershell&theme=dark" alt="Languages" /><br><br>
+<table align="center">
+  <tr>
+    <td align="center" valign="top">
+      <b>Languages</b><br><br>
+      <img src="https://skillicons.dev/icons?i=rust,c,java,python,bash,powershell&perline=1&theme=dark" alt="Languages" />
+    </td>
+    <td align="center" valign="top">
+      <b>Systems</b><br><br>
+      <img src="https://skillicons.dev/icons?i=linux,arch,debian,kali,nix,windows&perline=1&theme=dark" alt="Systems" />
+    </td>
+    <td align="center" valign="top">
+      <b>Web</b><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,astro&perline=1&theme=dark" alt="Web" />
+    </td>
+    <td align="center" valign="top">
+      <b>Tools</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,neovim,idea,obsidian,discord&perline=1&theme=dark" alt="Tools" />
+    </td>
+    <td align="center" valign="top">
+      <b>Hardware</b><br><br>
+      <img src="https://skillicons.dev/icons?i=arduino&perline=1&theme=dark" alt="Hardware" />
+    </td>
+    <td align="center" valign="top">
+      <b>Engines</b><br><br>
+      <img src="https://skillicons.dev/icons?i=godot&perline=1&theme=dark" alt="Engines" />
+    </td>
+  </tr>
+</table>
 
-<b>Systems</b><br>
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,kali,nix,windows&theme=dark" alt="Systems" /><br><br>
-
-<b>Web</b><br>
-<img src="https://skillicons.dev/icons?i=html,css,astro&theme=dark" alt="Web" /><br><br>
-
-<b>Tools</b><br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,neovim,idea,obsidian,discord&theme=dark" alt="Tools" /><br><br>
-
-<b>Hardware</b><br>
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Hardware" /><br><br>
-
-<b>Engines</b><br>
-<img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Engines" />
 </div>
 <br>
 <br>
