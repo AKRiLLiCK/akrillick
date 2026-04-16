@@ -1,9 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=260&section=header&text=Acrilic&fontSize=85&animation=fadeIn&fontAlignY=78&desc=Creativity%20%E2%80%A2%20Growth%20%E2%80%A2%20Legacy&descAlignY=93&descAlign=50&fontColor=ffffff" alt="Header" />
 <br>
-<a href="https://youtube.com/@AKRiLLiCK"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="https://ko-fi.com/acrilic"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" /></a>
-<img src="https://img.shields.io/badge/Discord-akrillick-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord: akrillick" />
+<a href="https://youtube.com/@AKRiLLiCK"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a><a href="https://ko-fi.com/acrilic"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-Fi" /></a>
 </div>
 <br>
 <div align="center">
