@@ -18,16 +18,22 @@ I am a <strong>Computer Engineering Student</strong> exploring the full depth of
 <br><br>
 
 <b>Languages</b><br>
-<img src="https://skillicons.dev/icons?i=rust,c,java,python,bash,powershell,html,css&theme=dark" alt="Languages" /><br><br>
+<img src="https://skillicons.dev/icons?i=rust,c,java,python,bash,powershell&theme=dark" alt="Languages" /><br><br>
 
-<b>Operating Systems</b><br>
-<img src="https://skillicons.dev/icons?i=linux,arch,debian,kali,nix,windows&theme=dark" alt="Operating Systems" /><br><br>
+<b>Systems</b><br>
+<img src="https://skillicons.dev/icons?i=linux,arch,debian,kali,nix,windows&theme=dark" alt="Systems" /><br><br>
 
-<b>Tools & Environments</b><br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,neovim,idea,obsidian,discord&theme=dark" alt="Tools & Environments" /><br><br>
+<b>Web</b><br>
+<img src="https://skillicons.dev/icons?i=html,css,astro&theme=dark" alt="Web" /><br><br>
 
-<b>Frameworks & Hardware</b><br>
-<img src="https://skillicons.dev/icons?i=astro,godot,arduino&theme=dark" alt="Frameworks & Hardware" />
+<b>Tools</b><br>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,neovim,idea,obsidian,discord&theme=dark" alt="Tools" /><br><br>
+
+<b>Hardware</b><br>
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark" alt="Hardware" /><br><br>
+
+<b>Engines</b><br>
+<img src="https://skillicons.dev/icons?i=godot&theme=dark" alt="Engines" />
 </div>
 <br>
 <br>
